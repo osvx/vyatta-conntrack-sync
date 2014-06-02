@@ -19,6 +19,7 @@ libtool
 /debian/files
 /debian/*debhelper.log
 /debian/vyatta-conntrack-sync
+/debian/vyatta-conntrack-sync.substvars
 /INSTALL
 /Makefile.in
 /Makefile
